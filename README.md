@@ -4,7 +4,7 @@
 
 * [Quantum Nature of the CIM](https://vimeo.com/646579448)
 
-* [Hiroki Takasue, Current Status of Coherent Ising Machine/LASOLV at NTT Laboratories](https://vimeo.com/625567591)
+* [Hiroki Takesue, Current Status of Coherent Ising Machine/LASOLV at NTT Laboratories](https://vimeo.com/625567591)
 
 * [Peter McMahon, Computing with Physical Systems](https://vimeo.com/625574351)
 
