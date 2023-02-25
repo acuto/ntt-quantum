@@ -1,4 +1,4 @@
-# NTT Group Videos on Quantum Computing
+# Selected NTT Group Publications on Quantum Computing
 
 ## NTT Research Videos
 
