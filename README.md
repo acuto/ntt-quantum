@@ -26,6 +26,22 @@
 
 * [\[NTT IR DAY 2019\] Quantum Neural Network (Q&A)](https://youtu.be/vBvZkhavec0)
 
+## White Papers: Quantum Neural Network
+
+* [Quantum Neural Network – Optical Neural Networks operating at the Quantum Limit – Preface](https://ntt-research.com/wp-content/uploads/2020/03/WP_preface_ver.2.pdf)
+
+* [Introduction to Quantum Neural Networks](https://ntt-research.com/wp-content/uploads/2019/09/WP_chapter_1_ver.2.pdf)
+
+* [Physics of Optical Parametric Oscillator](https://ntt-research.com/wp-content/uploads/2019/09/WP_chapter_2_ver.1.pdf)
+
+* [Theory of Optical Delay Line Coupling Quantum Neural Network](https://ntt-research.com/wp-content/uploads/2020/03/WP_chapter_3_ver.1.pdf)
+
+* [Theory of Quantum Measurements](https://ntt-research.com/wp-content/uploads/2020/03/WP_chapter_4_ver.1.pdf)
+
+* [Theory of Measurement Feedback Based Quantum Neural Networks](https://ntt-research.com/wp-content/uploads/2019/09/WP_chapter_5_ver.1.pdf)
+
+* [Coherent Ising Machines](https://ntt-research.com/wp-content/uploads/2020/03/WP_chapter_6_ver.1.pdf)
+
 ## Research Papers on Coherent Ising Machines
 
 * [Ng et al., Efficient sampling of ground and low-energy Ising spin configurations with a coherent Ising machine (2022)](https://doi.org/10.1103/PhysRevResearch.4.013009)
